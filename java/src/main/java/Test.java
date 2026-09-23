@@ -1,15 +1,9 @@
 public class Test {
+
     public static void main(String[] args) {
-        //打印你好
-        System.out.println("你好");
+        Test.test();
     }
 
-
-    // 测试方法
-    public void test() {
-        System.out.println("你好");
+    public static void test() {
     }
-
-
-
 }
